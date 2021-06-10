@@ -9,7 +9,7 @@ The dataset consists of two csv files:
 2. True.csv - 20826 rows 
 
 ## Classification Report
-Accuracy on testing set: 0.9902004454342984
-Precision on testing set: 0.9898100972672533
-Recall on testing set: 0.9898100972672533
+1. Accuracy on testing set: 0.9902004454342984
+2. Precision on testing set: 0.9898100972672533
+3. Recall on testing set: 0.9898100972672533
 
